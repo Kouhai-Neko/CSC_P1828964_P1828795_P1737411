@@ -1,0 +1,92 @@
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\CSC_TASK 8.dll.config
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\CSC_TASK 8.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\CSC_TASK 8.pdb
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csc.exe
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csc.exe.config
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csc.rsp
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csi.exe
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csi.exe.config
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\csi.rsp
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.AppContext.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Collections.Immutable.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Console.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Globalization.Calendars.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.IO.Compression.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.IO.FileSystem.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Net.Http.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Net.Sockets.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Reflection.Metadata.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.ValueTuple.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Xml.XPath.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\vbc.exe
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\vbc.exe.config
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\vbc.rsp
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\VBCSCompiler.exe
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\roslyn\VBCSCompiler.exe.config
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Antlr3.Runtime.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Clarifai.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Microsoft.Web.Infrastructure.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Newtonsoft.Json.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Net.Http.Formatting.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Helpers.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Http.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Http.WebHost.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Mvc.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Optimization.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Razor.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.Deployment.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.Razor.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\WebGrease.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Newtonsoft.Json.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Net.Http.Formatting.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Helpers.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Http.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Http.WebHost.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Mvc.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Optimization.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.Razor.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.Deployment.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\System.Web.WebPages.Razor.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Antlr3.Runtime.pdb
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\obj\Debug\CSC_TASK 8.csprojAssemblyReference.cache
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\obj\Debug\CSC_TASK 8.csproj.CoreCompileInputs.cache
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\obj\Debug\CSC_TASK 8.csproj.CopyComplete
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\obj\Debug\CSC_TASK 8.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\obj\Debug\CSC_TASK 8.pdb
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\Cloudmersive.APIClient.NET.ImageRecognition.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\JsonSubTypes.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\RestSharp.dll
+D:\Shaun\Yr3 Sem1\CSC\Assignment 1\Task 8\CSC_TASK 8\CSC_TASK 8\bin\RestSharp.xml

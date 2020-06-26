@@ -1,0 +1,53 @@
+﻿
+
+@using (Html.BeginForm("Test1", "Home", FormMethod.Post, new { enctype = "multipart/form-data" }))
+{
+    @Html.Raw(ViewBag.Error)
+    <span></span>
+    <input type="file" name="ImageFile" />
+    <br />
+    <input type="submit" value="Import" id="btnSubmit"/>
+    <div id="divLoader" style="display:none;"><img src="~/Content/ajax-loader.gif" alt="Loader" /></div>
+    
+    //Loading screen Attempt
+    @*<script type="text/javascript">
+        
+        $(document).ready(function () {
+        console.log("Checkpoint one");
+                $("#btnSubmit").click(function () {
+                $("#divLoader").show();
+                console.log("Checkpoint two");
+                var fileInput = document.getElementById('ImageFile');
+                var file = fileInput.file[0];
+                var formData = new FormData();
+                consol.log("Checkpoint three" + file);
+                formData.append('file', file);
+                $.ajax({
+                    url: '/Home/Test1',
+                    type: "POST",
+                    data: "file=" + file,
+                    cache: false,
+                    success: function (data) {
+                        $("#divLoader").hide();
+                        alert(data);
+                    },
+                    error: function (xhr) {
+                        $("#divLoader").hide();
+                        alert('error');
+                    }
+                })
+            })
+            
+        });
+    </script>*@
+
+}
+
+<style type="text/css" media="screen">
+    #spinner {
+        position: fixed;
+        top: 50%;
+        left: 50%;
+    }
+</style>
+
